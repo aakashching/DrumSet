@@ -207,7 +207,7 @@ footer {
   }
   footer {
   				position: absolute;
-  				top: 100px;
-  				left: 105px;
+  				top: 50%;
+  				left: 52%;
   }
 }
